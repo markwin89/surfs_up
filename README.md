@@ -14,7 +14,7 @@ W. Avy want's to see if his ice-cream and surf shop is sustainable throughout th
  
   -![Dec Temps](https://user-images.githubusercontent.com/101272613/168694480-3e436c11-ebfa-4191-8892-b9760b623140.PNG)
 
-  -Overall, the standard deviation between the two months (3.25 in June and 3.74 in December) do not vary greatly. 
+Overall, the standard deviation between the two months (3.25 in June and 3.74 in December) do not vary greatly. 
 ---
 ## Summary
   - From June to December, the temperature does not stray way from the min and max.  
